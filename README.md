@@ -1,6 +1,6 @@
-##Preprocessing workglow for DESI imaging, thermo, centroid mode data
-#Input: PathName: directory of the imzML files
-#Author: Nazanin z. Kermani, Imperial College London 2016.
+#Preprocessing workglow for DESI imaging, thermo, centroid mode data
+###Input: PathName: directory of the imzML files
+###Author: Nazanin z. Kermani, Imperial College London 2016.
 Workflow:
 
 1. read imzML files
